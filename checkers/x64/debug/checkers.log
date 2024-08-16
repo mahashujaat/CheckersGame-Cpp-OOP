@@ -1,0 +1,36 @@
+﻿  game.cpp
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(24,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(24,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(40,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(40,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(382,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(382,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(404,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(404,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(533,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\source\repos\checkers\checkers\game.cpp(533,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  checkers.vcxproj -> C:\Users\Dell\source\repos\checkers\x64\Debug\checkers.exe
